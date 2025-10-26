@@ -11,10 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
+* **BS-MS Dual Degree**, _Indian Institute of Science Education and Research, Mohali_
+  * Master's Project: Evaluation of the Impact of a
+Community Health Worker Program on the Health-Related Quality of Life
+of its Beneficiaries
+  * Major: Biology
+  * Minor: Science Education
+  * Cumulative Point Index: 9.5/10
+  
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
