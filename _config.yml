@@ -23,7 +23,7 @@ repository               : "sach-iyer/sach-iyer.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile Picture Cropped.jpg"
+  avatar           : "Profile Picture Cropped.png"
   name             : "Sachin Iyer"
   pronouns         : "he/him"  
   bio              : "Associate - Clinical Operations and Research"
