@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+(last updated on 31-10-2025)
+
+# This CV is under construction
+
 Education
 ======
 ### BS-MS Dual Degree
