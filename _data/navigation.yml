@@ -23,14 +23,17 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /blog/
     
   - title: "CV"
     url: /cv/
-    
+
+  - title: "STIP-C"
+    url: /stipc-2025/
+  
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide (temp)"
-    url: /markdown/
+  # - title: "Guide (temp)"
+  #   url: /markdown/
