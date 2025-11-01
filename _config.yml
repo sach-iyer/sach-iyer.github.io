@@ -233,6 +233,8 @@ collections:
 
 
 # These settings control how pages and collections are included in the site
+# stip-c added by sachin 2025-11-1
+
 defaults:
   # _posts
   - scope:
@@ -287,7 +289,17 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _stipc-2025
+  - scope:
+      path: ""
+      type: stipc-2025
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 # Sass/SCSS
 sass:
