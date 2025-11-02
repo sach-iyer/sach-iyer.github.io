@@ -299,10 +299,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      # read_time: true
+      read_time: true
       comments: true
       share: true
-      # related: true
+      related: true
 
 # Sass/SCSS
 sass:
@@ -312,10 +312,11 @@ sass:
 
 # Outputting
 
-# permalink: /:categories/:title/
+permalink: /:categories/:title/
 # I AM CHANGING THIS WITH NO IDEA WHY. COPYING DannyQuah. Maybe this might help solve my problems?
   # If I fix my problems, should come back here and undo this.
-permalink: pretty
+  # I fixed it!! let's goooo. Commented out the change and brought back original.
+# permalink: pretty
 
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
