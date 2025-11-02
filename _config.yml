@@ -230,7 +230,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  stip-2025:
+  stipc-2025:
     output: true
     permalink: /:collection/:path/
 
