@@ -3,7 +3,7 @@ title: "The Middle-Class Indians Living in Ahmedabad's Slums"
 date: 2025-11-15
 permalink: /posts/middle-class-ahmedabad/
 tags:
-  - test post
+  - Master's Project
 ---
 
 > This is the first post in a series documenting my observations from my fieldwork in Ahmedabad. As part of my master's project on the impact of a community health worker program, I spent many months walking among and talking to the residents of five low-income neighborhoods (slums) in the city.
@@ -15,12 +15,12 @@ tags:
 A lane in Shahwadi, Ahmedabad
 {: style="text-align: center;"}
 
-I spent weeks preparing for my fieldwork - reading relevant research papers on healthcare access among the *urban poor* of Ahmedabad (and learned some basic Gujarati). On one of my first field visits, Hansa Ben, a health worker, explained to me
+I spent weeks preparing for my fieldwork - reading relevant research papers on healthcare access among the *urban poor* of Ahmedabad (and learned some basic Gujarati). On one of my first field visits, Manisha Ben\*, a health worker, explained to me
 
 **“Aapne bhi dekhe honge, yahan sab *middle-class* log hi hain. Unko surgery karne ke liye paisa nahin hota hai.”**  
 *(Translation: You must have also seen—the people here are all middle class. They do not have enough money to get surgery.)*
 
-I was struck at her usage of **middle-class** instead of **poor**. This was not the last time I heard the term being used either. In the following months, I met as many patients who casually described themselves as **middle-class** and as those who claimed to be **gareeb** (poor). The self-identification as *middle class* by the very people who we (in academia) consider the *urban poor* did not sit well with me.
+I was struck at her usage of **middle-class** instead of **poor**. This was not the last time I heard the term being used either. In the following months, I met as many patients who casually described themselves as **middle-class** and as those who claimed to be **"gareeb"** (poor). The self-identification as *middle class* by the very people who we (in academia) consider the *urban poor* did not sit well with me.
 
 The thought kept nagging at me: *"What was the definition of the middle class?"*
 
@@ -49,5 +49,7 @@ I would love to hear from you if you have any thoughts about my experience, insi
 ------
 Note:
 As the authors emphasise in [their chapter](https://carnegieendowment.org/posts/2017/11/the-importance-of-being-middleclass-in-india?lang=en), the results of the survey need to be interpreted with care. The chapter also examines the correlations of middle-class self-identification with social aspiration and economic optimism. I highly recommend checking it out.
+
+*Name changed
 
 [^1]: The Importance of Being Middle Class in India. Carnegie Endowment for International Peace. Accessed April 14, 2025. https://carnegieendowment.org/posts/2017/11/the-importance-of-being-middleclass-in-india?lang=en
