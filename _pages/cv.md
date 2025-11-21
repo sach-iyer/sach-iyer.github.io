@@ -7,11 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
+(last updated on 22-11-2025)
 
-(last updated on 31-10-2025)
-
-# This CV is under construction
 
 Education
 ======
@@ -19,16 +17,15 @@ Education
 _Indian Institute of Science Education and Research, Mohali_ | 2020-2025
   * **Major:** Biology &emsp; **Minor:** Science Education
   * **Cumulative Point Index:** 9.5/10
-  * **Master's Project:** Evaluation of the Impact of a
+  * **Master's Project:** Measuring Impact of a
 Community Health Worker Program on the Health-Related Quality of Life of its Beneficiaries
   
 Work experience
 ======
 ### Associate - Clinical Operations and Research
 _Dvara Health Finance_ | August 2025 - Current
-  * About DHF and NEEM
-  * Duties includes: General duties
-  * Mental health pilot
+  * Dvara Health Finance is working to ensure spending on health translates to better financial and health outcomes for Indians.
+  * My role includes imporving processes, clinical operations, and leading pilot programs.
 
 ### Master's Thesis - Public Health
 _Indian Institute of Public Health, Gandhinagar_ | September 2024 - May 2025
@@ -56,34 +53,51 @@ _Vembi Technologies, Bengaluru_ | May - August 2022
 * Designed tactile diagrams to improve usability using low-cost technologies.
 * Performed field testing of tactile diagrams and accompanying audio device at schools around Bengaluru.
 
-  
+Awards and Ceritifications
+===
+
+### Khorana Scholar
+_Indo-US Science and Technology Forum_ | 2024
+
+Was selected for the Khorana Scholarship - a joint program of Indian Department of Biotechnology, and US Department of State.
+Won a fully funded summer internship in a research lab in the USA.
+
+### CNR Rao Foundation Prize- Two time recipient:
+_Indian Institute of Science Education and Research, Mohali_ | 2021
+
+Awarded for academic excellence in two semesters.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Languages:** English (Fluent), Hindi (Coversational spoken and written), Tamil (Conversational Spoken), Kannada (Basic Spoken)
 
-Publications
+* **Programming Languages:** Python, R, SAS, C++
+
+* **Softwares:** XLSForms based survey tools (KoboToolbox), LaTeX, MS Office suite
+
+Other Activities
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+### Founder & Convenor - Education Club
+_Indian Institute of Science Education and Research, Mohali_ | May 2022-September 2023
+
+* Conceived and founded Education Club - aiming to create opportunities for students to actively engage in education within and
+outside the institute.
+* Organised mathematics workshops for freshers and help sessions for students learning Python programming.
+
+### Mess Audit Committee
+_Indian Institute of Science Education and Research, Mohali_ | March 2023- May 2024
+
+* Member of inaugural Audit Committee of the Student Run Mess.
+* Designed systems for managing and monitoring finances of the newly formed Student Run Mess.
+* Currently an active member of the Student Run Mess advisory board.
+
+### Teaching Assistant
+_Indian Institute of Science Education and Research, Mohali_ |January - April 2024
+
+Teaching assistant for a course on genetics and evolution.
+
+### Senior Editor - Manthan
+_Indian Institute of Science Education and Research, Mohali_ |January 2023 – March 2024
+
+Senior editor at the college student magazine- Manthan 
