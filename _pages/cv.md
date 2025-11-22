@@ -8,8 +8,11 @@ redirect_from:
 ---
 
 <!-- {% include base_path %} -->
-(last updated on 22-11-2025)
 
+
+<p style="text-align:right;">
+    (last updated on 22-11-2025)
+</p>
 
 Education
 ======
@@ -20,8 +23,7 @@ _Indian Institute of Science Education and Research, Mohali_ | 2020-2025
   * **Master's Project:** Measuring Impact of a
 Community Health Worker Program on the Health-Related Quality of Life of its Beneficiaries
   
-Work experience
-======
+## Work experience
 ### Associate - Clinical Operations and Research
 _Dvara Health Finance_ | August 2025 - Current
   * Dvara Health Finance is working to ensure spending on health translates to better financial and health outcomes for Indians.
