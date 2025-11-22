@@ -5,57 +5,80 @@ permalink: /posts/mirror-maze/
 tags:
   - Poem
 ---
-> Moments of difficulty hit harder when unwell and living away from home
+> When unwell and living away from home - days, months and years merge into one another.
+
 ---
 
-![Mirror Maze](/images/post_images/mirror-maze.png "Mirror Maze")
+<div style="text-align: center;">
 
-<center>
+<img src="/images/post_images/mirror-maze.png" alt="Mirror Maze" style="max-width:90%">
 
-How much further do I have to go?           \
-How long is it going to take?               \
-How long have I been here?                  
+<!-- ![Mirror Maze](/images/post_images/mirror-maze.png "Mirror Maze")
+{: width="700" style="display: block; margin: 0 auto"} -->
 
-Have I eaten?                               \
-Have I taken my medicines?                  \
-Have I cleaned my room?                     
+<p>
+<br>
+How much further do I have to go?           <br>
+How long is it going to take?               <br>
+How long have I been here?                  </p>
 
-When did I last talk to someone?            \
-When did I last even see anyone?            \
-When did I last sleep?                      
+<p>
+Have I eaten?                               <br>
+Have I taken my medicines?                  <br>
+Have I cleaned my room?                     </p>
 
-Sleep... I think I need to sleep.           
+<p>
 
-When I wake up,                             \
-The world seems infinite plane              \
-of infinite paths and possibilities.        
+When did I last talk to someone?            <br>
+When did I last even see anyone?            <br>
+When did I last sleep?                      </p>
 
-But every other step leads to a dead end.
+<p>
 
-Still I stumble onward-                     \
-tired, confused, disoriented                \
-and wary of the invisible obstacles,        \
-but holding on to the hope,                 \
-that the next path isn't a dead end.        \
-Only to walk into another mirror            \
-Of the great mirror maze I am in.
+Sleep... I think I need to sleep.           </p>
 
-Sometimes I wonder                          \
-whether there really is any path            \
-that leads anywhere.                        \
-But I tell mysel                            \
-"You need to push on!                       \
-Hold onto hope!                             \
-That is how you got this far,               \
-how you got till here,                      \
-and that is how you will reach your destination"
+<p>
 
-Then I pause for a second,                  \
-Wait... How did I end up here?              \
-Where am I even trying to go?               
+When I wake up,                             <br>
+The world seems infinite plane              <br>
+of infinite paths and possibilities.        </p>
 
-How much further do I have to go?           \
-How long is it going to take?               \
-How long have I been here?                  
+<p>
 
-</center>
+But every other step leads to a dead end.   </p>
+
+<p>
+
+Still I stumble onward-                     <br>
+tired, confused, disoriented                <br>
+and wary of the invisible obstacles,        <br>
+but holding on to the hope,                 <br>
+that the next path isn't a dead end.        <br>
+Only to walk into another mirror            <br>
+Of the great mirror maze I am in.           </p>
+
+<p>
+
+Sometimes I wonder                          <br>
+whether there really is any path            <br>
+that leads anywhere.                        <br>
+But I tell myself                           <br>
+"You need to push on!                       <br>
+Hold onto hope!                             <br>
+That is how you got this far,               <br>
+how you got till here,                      <br>
+and that is how you will reach your destination" </p>
+
+<p>
+
+Then I pause for a second,                  <br>
+Wait... How did I end up here?              <br>
+Where am I even trying to go?               </p>
+
+<p>
+
+How much further do I have to go?           <br>
+How long is it going to take?               <br>
+How long have I been here?                  </p>
+
+</div>
