@@ -4,6 +4,8 @@ date: 2022-04-11
 permalink: /posts/mirror-maze/
 tags:
   - Poem
+
+excerpt: "> When unwell and living away from home - days, months and years merge into one another."
 ---
 > When unwell and living away from home - days, months and years merge into one another.
 

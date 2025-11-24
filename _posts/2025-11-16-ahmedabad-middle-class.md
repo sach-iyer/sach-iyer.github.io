@@ -1,9 +1,11 @@
 ---
 title: "The Middle-Class Indians Living in Ahmedabad's Slums"
-date: 2025-11-15
+date: 2025-11-24
 permalink: /posts/middle-class-ahmedabad/
 tags:
   - Master's Project
+
+excerpt: "> This is the first post in a series documenting my observations from my fieldwork in Ahmedabad. As part of my master's project on the impact of a community health worker program, I spent many months walking among and talking to the residents of five low-income neighborhoods (slums) in the city."
 ---
 
 > This is the first post in a series documenting my observations from my fieldwork in Ahmedabad. As part of my master's project on the impact of a community health worker program, I spent many months walking among and talking to the residents of five low-income neighborhoods (slums) in the city.
