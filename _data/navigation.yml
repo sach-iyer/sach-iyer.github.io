@@ -29,8 +29,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "STIP-C"
-    url: /stipc-2025/
+  # - title: "STIP-C"
+  #   url: /stipc-2025/
   
   # - title: "CV"
   #   url: /cv-json/

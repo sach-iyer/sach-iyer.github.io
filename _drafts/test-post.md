@@ -1,8 +1,8 @@
 ---
-title: 'Test Blog Post'
-date: 2025-11-24
-permalink: /posts/test-post/
-excerpt: "> This is the excerpt for my test blog post"
+# title: 'Test Blog Post'
+# date: 2025-11-24
+# permalink: /posts/test-post/
+# excerpt: "> This is the excerpt for my test blog post"
 
 # tags:
 #   - cool posts
