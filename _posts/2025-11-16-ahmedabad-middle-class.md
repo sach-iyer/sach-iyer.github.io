@@ -5,7 +5,7 @@ permalink: /posts/middle-class-ahmedabad/
 tags:
   - Master's Project
 
-excerpt: "> This is the first post in a series documenting my observations from my fieldwork in Ahmedabad. As part of my master's project on the impact of a community health worker program, I spent many months walking among and talking to the residents of five low-income neighborhoods (slums) in the city."
+excerpt: "> During my field visits, I found that residents of slums often refered to themsleves as *middle class*. Here I try to understand how those we refer to as the urban poor could idenitfy as middle-class."
 ---
 
 > This is the first post in a series documenting my observations from my fieldwork in Ahmedabad. As part of my master's project on the impact of a community health worker program, I spent many months walking among and talking to the residents of five low-income neighborhoods (slums) in the city.
