@@ -5,26 +5,24 @@ permalink: /posts/middle-class-ahmedabad/
 tags:
   - Master's Project
 
-excerpt: "> During my field visits, I found that residents of slums often referred to themselves as *middle class*. Here I try to understand how those we refer to as the urban poor could identify as middle-class."
+excerpt: "> During my field visits, I found that residents of slums often referred to themselves as *middle class*. Here I try to understand why those we refer to as the urban poor would identify as middle-class."
 ---
 
 > This is the first post in a series documenting my observations from my fieldwork in Ahmedabad. As part of my master's project on the impact of a community health worker program, I spent many months walking among and talking to the residents of five low-income neighbourhoods (slums) in the city.
 
 ---
 
+**“Aapne bhi dekhe honge, yahan sab *middle-class* log hi hain. Unko surgery karne ke liye paisa nahin hota hai.”**  
+*(Translation: You must have also seen—the people here are all middle class. They do not have enough money to get surgery.)*
+
+Manisha Ben's words caught me off guard on my one of my first visits to Ahmedabad's slums. I had spent the preceding weeks reading research papers on  the *urban poor* and healthcare access. And yet I had seemingly met the Indian middle class.
+
 ![Banner - A lane in Shahwadi, Ahmedabad](/images/post_images/blog_middle_class/ahmedabad_image_cropped.jpg "A lane in Shahwadi, Ahmedabad"){: width="700" style="display: block; margin: 0 auto"}
 
 A lane in Shahwadi, Ahmedabad
 {: style="text-align: center;"}
 
-I spent weeks preparing for my fieldwork - reading relevant research papers on healthcare access among the *urban poor* of Ahmedabad (and learned some basic Gujarati). On one of my first field visits, Manisha Ben\*, a health worker, explained to me
-
-**“Aapne bhi dekhe honge, yahan sab *middle-class* log hi hain. Unko surgery karne ke liye paisa nahin hota hai.”**  
-*(Translation: You must have also seen—the people here are all middle class. They do not have enough money to get surgery.)*
-
-I was struck at her usage of **middle-class** instead of **poor**. This was not the last time I heard the term being used either. In the following months, I met as many patients who casually described themselves as **middle-class** and as those who claimed to be **"gareeb"** (poor). The self-identification as *middle class* by the very people who we (in academia) consider the *urban poor* did not sit well with me.
-
-The thought kept nagging at me: *"What was the definition of the middle class?"*
+This was far from an isolated incident. In the following months, I met as many patients who casually described themselves as **middle-class** and as those who claimed to be **"gareeb"** (poor). The self-identification as *middle class* by the very people who we (in academia) consider the *urban poor* did not sit well with me. What was the definition of the middle class?
 
 Is it, as one of the patients put it when commenting on the unaffordability of surgery,
 **"Hum middle class hain—hamare paas kapde dhone wali machine bhi nahin hai"**
