@@ -13,9 +13,9 @@ excerpt: "> During my field visits, I found that residents of slums often referr
 ---
 
 **“Aapne bhi dekhe honge, yahan sab *middle-class* log hi hain. Unko surgery karne ke liye paisa nahin hota hai.”**  
-*(Translation: You must have also seen—the people here are all middle class. They do not have enough money to get surgery.)*
+*(You must have also seen—the people here are all middle class. They do not have enough money to get surgery.)*
 
-Manisha Ben's words caught me off guard on my one of my first visits to Ahmedabad's slums. I had spent the preceding weeks reading research papers on  the *urban poor* and healthcare access. And yet I had seemingly met the Indian middle class.
+Manisha Ben's words caught me off guard on my one of my first visits to Ahmedabad's slums. I had spent the preceding weeks reading research papers on healthcare access for the urban poor. And yet I had seemingly met the Indian middle class.
 
 ![Banner - A lane in Shahwadi, Ahmedabad](/images/post_images/blog_middle_class/ahmedabad_image_cropped.jpg "A lane in Shahwadi, Ahmedabad"){: width="700" style="display: block; margin: 0 auto"}
 
