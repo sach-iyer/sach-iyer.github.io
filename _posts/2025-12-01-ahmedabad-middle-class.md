@@ -8,14 +8,14 @@ tags:
 excerpt: "> During my field visits, I found that residents of slums often referred to themselves as *middle class*. Here I try to understand why those we refer to as the urban poor would identify as middle-class."
 ---
 
-> This is the first post in a series documenting my observations from my fieldwork in Ahmedabad. As part of my master's project on the impact of a community health worker program, I spent many months walking among and talking to the residents of five low-income neighbourhoods (slums) in the city.
+> This is the first post in a series documenting my observations from my fieldwork in Ahmedabad. As part of my master's project on the impact of a community health worker program, I spent many months walking among and talking to the residents of five low-income neighbourhoods in the city.
 
 ---
 
 **“Aapne bhi dekhe honge, yahan sab *middle-class* log hi hain. Unko surgery karne ke liye paisa nahin hota hai.”**  
 *(You must have also seen—the people here are all middle class. They do not have enough money to get surgery.)*
 
-Manisha Ben's words caught me off guard on my one of my first visits to Ahmedabad's slums. I had spent the preceding weeks reading research papers on healthcare access for the urban poor. And yet I had seemingly met the Indian middle class.
+Manisha Ben's\* words caught me off guard on my one of my first visits to Ahmedabad's slums. I had spent the preceding weeks reading research papers on healthcare access for the urban poor. And yet I had seemingly met the Indian middle class.
 
 ![Banner - A lane in Shahwadi, Ahmedabad](/images/post_images/blog_middle_class/ahmedabad_image_cropped.jpg "A lane in Shahwadi, Ahmedabad"){: width="700" style="display: block; margin: 0 auto"}
 
